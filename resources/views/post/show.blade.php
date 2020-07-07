@@ -13,6 +13,7 @@
                     <li style="float: right"><a href="#"><i class="fa fa-calendar"></i> {{ $post->created_at }}</a></li>
                 </ul>
 
+
                 @if( $post->type == \App\Model\Post::TYPE_IMG)
                     @foreach(json_decode($post->content) as $img)
                 <p class="info">

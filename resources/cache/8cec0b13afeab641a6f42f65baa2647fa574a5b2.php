@@ -40,4 +40,4 @@
             <a href="index.html"><img src="images/logo.png"></a>
         </div>
         -->
-</header>
+</header><?php /**PATH /app/code/bughello/resources/views/particles/nav.blade.php ENDPATH**/ ?>
