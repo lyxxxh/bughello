@@ -21,6 +21,9 @@
 
     <link rel="stylesheet" href="http://cdn.lblog.club/cdn/bughello/css/lightbox.css">
 
+    <meta name="keywords" content="二次元资源,二次元,二次元图片,美图,图片站,死宅,hentai,动漫" />
+    <meta name="Description" content="二次元资源 多种你想要的资源" />
+
     <!-- Core JavaScript Files -->
     <!--
     <script src="http://cdn.lblog.club/cdn/bughello/js/bootstrap.min.js"></script>
