@@ -14,3 +14,4 @@ vendor/
 public/upload
 public/min_image
 runtime
+resources/cache

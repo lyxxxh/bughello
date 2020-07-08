@@ -6,6 +6,7 @@ namespace App\Controller;
 
 use App\Model\Banner;
 use App\Model\Post;
+use App\Model\Video;
 use Hyperf\HttpServer\Contract\RequestInterface;
 use Xxh\FileStore\Service\FileStoreAbstract;
 
@@ -16,9 +17,9 @@ class VideoController extends AbstractController
     public function index(RequestInterface $request)
     {
 
-        $posts = Post::OrderBy('view','desc')->WhereNotNull('min_img')->Filter($request->all())->paginate(15);
+        $videos = Video::OrderBy('view','desc')->paginate(21);
         $banners=  Banner::all();
-        return view('video.index',compact('posts','banners'));
+        return view('video.index',compact('videos','banners'));
     }
 
 

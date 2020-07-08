@@ -15,7 +15,8 @@ if(! function_exists('view')){
 
     function view($view,$compact = [])
     {
-        return container()->get(\Hyperf\View\RenderInterface::class)->render($view,$compact);
+
+        return app(\Hyperf\View\RenderInterface::class)->render($view,$compact);
     }
 }
 
@@ -23,7 +24,7 @@ if(! function_exists('view')){
 if(! function_exists('resolve')){
     function resolve($abstract)
     {
-        return container()->get($abstract);
+        return app($abstract);
     }
 }
 //习惯lar了
@@ -54,7 +55,7 @@ if(! function_exists('public_upload_url')){
 if (!function_exists('request')) {
     function request()
     {
-        return container()->get(\Psr\Http\Message\ServerRequestInterface::class);
+        return app(\Psr\Http\Message\ServerRequestInterface::class);
     }
 }
 
@@ -63,17 +64,26 @@ if (!function_exists('request')) {
 if (!function_exists('redis')) {
     function redis()
     {
-        return Hyperf\Utils\ApplicationContext::getContainer()->get(
+        return app(
             Hyperf\Redis\Redis::class
         );
     }
 }
 
 
+if (!function_exists('app')) {
+    function app($name)
+    {
+        return Hyperf\Utils\ApplicationContext::getContainer()->get(
+                $name
+        );
+    }
+}
+
 if (!function_exists('response')) {
     function response()
     {
-        return Hyperf\Utils\ApplicationContext::getContainer()->get(
+        return app(
             Hyperf\HttpServer\Contract\ResponseInterface::class
         );
     }
