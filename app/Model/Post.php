@@ -50,7 +50,6 @@ class Post extends Model
     }
 
 
-
     public function scopeFilter($query,array  $where)
     {
         if( isset($where['title']))

@@ -24,6 +24,22 @@
                     @endforeach
                 @endif
             </div>
+
+
+
+
+            <div class="bottom-item">
+              @if( $post->previou)
+              <a href="/post/{{ $post->previou->id }}" class="btn btn-share share" title="{{ $post->previou->title }}" style="border-right: 0">
+                  <i class="fa fa-angle-left"></i> 上一篇: {{ $post->previou->title }} </a>
+              @endif
+                 @if( $post->next)
+                    <span class="user f-right">下一篇: <a href="/post/{{ $post->next->id }}" title="{{ $post->next->title }}">{{ $post->next->title }}
+                        <i class="fa fa-angle-right"></i>
+                        </a></span>
+                @endif
+            </div>
+
             <div class="bottom-item">
 <!--
                 <a href="#" class="btn btn-share share"><i class="fa fa-share-alt"></i> Share</a>

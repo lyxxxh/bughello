@@ -31,6 +31,8 @@ class IndexController extends AbstractController
     {
 
         $post = tap(Post::FindOrFail($id),function ($post){
+            $post->previou = Post::Where('id','<',$post->id)->orderBy('id','desc')->first(['id','title']);
+            $post->next = Post::Where('id','>',$post->id)->first(['id','title']);
             $post->increment('view');
         });
         return view('post.show',compact('post'));
