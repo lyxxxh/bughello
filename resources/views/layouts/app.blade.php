@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 @include('particles.heade')
+@include('particles.css')
 @include('particles.nav')
 
 @include('particles.content')
@@ -10,7 +11,7 @@
 {{-- @include('particles.footer') --}}
 @include('particles.js')
 
-@include('particles.css')
+
 
 
 </html>

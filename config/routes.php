@@ -16,6 +16,8 @@ Router::get('/', 'App\Controller\IndexController@index');
 
 Router::get('/post/{id}','App\Controller\IndexController@show');
 
+Router::get('/video','App\Controller\VideoController@index');
+
 Router::get('/about', function (){
     return view('about');
 });

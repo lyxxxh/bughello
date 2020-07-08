@@ -23,5 +23,9 @@ trait HttpService
         ]);
     }
 
+    public function getClientFactory()
+    {
+        return $this->clientFactory;
+    }
 
 }

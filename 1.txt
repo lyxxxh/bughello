@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>   
+<title>出包王女第二季剧情介绍-酷云资源站</title>
+<meta name="keywords" content="酷云资源网 在线播放资源网 酷云资源采集 高清电影资源站 COOL" />
+<meta name="description" content="酷云资源网为广大站长提供最新最快的高清电影资源及采集,高清资源站,首发资源站,伦理资源站,在线播放资源,c值采集站,58值资源站,优酷云c值采集,c值资源,优酷云资源站,优酷云c值采集插件,c值采集资源,c值资源站cms,采集c采集,c视频" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link type="text/css" rel="stylesheet" href="/template/default/images/style.css" />
+<script type="text/javascript" src="/template/default/images/copy.js" ></script>
+
+</head>
+<body>
+<table border="0" width="100%" bgcolor="#FFFC00" style="font-size: 12px" cellspacing="0" 
+ 
+cellpadding="0" height="30"><tr><td>
+	<p align="center">
+	<b>
+	<span style="color:#FF0000">
+<br>公告：郑重承诺：资源永久免费,打造全网无水印资源，播放速度最快的资源，无广告永久免费的资源(承诺绝不影响用户体验) 
+<br>
+<br>最新公告：酷云资源站HTTPS已经开通>>>>>>>>>
+<font color="#3366ff" style="font-size: 18px;font-weight: bold;">请点击进入<a href="http://www.kuyunzyw.tv/"_blank"><span style="color:#FF0000">酷云HTTPS资源</span></a><br></font>
+<span style="font-size: 18px;color: red;font-weight: bold;line-height: 40px;">公告：采集教程简单方便一看就懂 请点击<a href="http://www.kuyunzy.tv/help/" style="color: red;">《帮助中心》</a></span>
+</font></b><br>
+2020.04.09 播放域名被污染已失效，请及时更换播放地址<br/><br/>
+原视频地址：sina.jingpinxiazai.com     替换为：yangguang.piaohua-kuyun.com<br/>
+原视频地址：jingcai.cdn-vipkkyun.com  替换为：tianxian.piaohua-kuyun.com<br/><br/>
+</p></td></tr></table>  
+<div align="center"><a href="http://www.56dy.com" target="_blank"><img src="/56dy.gif"></a></div>
+<div class="adA area" id="CAS_ADD_14_4">
+	</div>
+<div class="fullLS">
+<div class="area" id="logoSea">
+	<div class="left">
+		<a href="/"><img src="/template/default/images/logo.png" width="252" height="84" 
+
+alt="酷云资源站" /></a>
+	</div>
+	 <div class="center"><a><font color=#3366ff><b>发片收录→</b></font></a><font 
+
+color=#3366ff><b>交流群 205913554</b> </font></a> <a href="/gbook.asp" target="_blank"><font 
+
+color=red><b>求片报错</b></font></a>
+</b><br>
+	      </tr>
+		  <tr>
+		<form action='/search.asp' method="post" id="sForm" 
+
+name="formsearch" target="_blank">
+			<input type="text" name="searchword" class="tx" value="输入影片名或演员名" 
+
+onClick="if(this.value=='输入影片名或演员名')this.value=''"  id="searchword"/>
+			<input type="submit" class="btn" id="searchBtn" value="搜 索" />
+			</form>
+	</div>
+<div class="right">
+<div class="tvidx">支持API采集:  
+<a href="/download/maxcms4.0caiji.rar" target="_blank"><font color=red><b>MAXCMS</b></font></a> |
+<a href="/download/maccmscaiji.rar" target="_blank"><font color="red"><b>苹果CMS</b></font></a> 
+
+| 
+<a href="/download/feifeicms2.7&2.9&3.4.rar" target="_blank"><font color=red><b>飞飞CMS 
+
+</b></font></a> | 
+<a href="/download/seacmscaiji.rar" target="_blank"><font color=red><b>海洋CMS</b></font></a> |
+ 	</div> 
+	</div> 
+ 
+</div>
+</div>
+ 
+<div class="fullHNS">
+<div class="area" id="hypoNav">
+	<div class="hypoMain clear">
+		<div class="left">
+			<ul>
+				<li ><em><a href="/">首页</a></em></li>
+
+				<li ><em><a href="/list/?1.html">国产剧</a></em></li>
+
+				<li ><em><a href="/list/?2.html">香港剧</a></em></li>
+
+				<li ><em><a href="/list/?3.html">台湾剧</a></em></li>
+
+				<li ><em><a href="/list/?4.html">日本剧</a></em></li>
+
+				<li ><em><a href="/list/?5.html">韩国剧</a></em></li>
+
+				<li ><em><a href="/list/?6.html">欧美剧</a></em></li>
+
+				<li ><em><a href="/list/?29.html">海外剧</a></em></li>
+
+				<li ><em><a href="/list/?30.html">综艺节目</a></em></li>
+
+				<li  
+class="now"><em><a href="/list/?31.html">动漫剧场</a></em></li>
+
+			</ul>
+		</div>
+<!-- 		<div class="right" id="seleMenu">
+ 
+		</div> -->
+	</div>
+	<div class="hypoSub clear">
+	
+	<a href="/list/?32.html" target=_self>动作片</a>|
+	<a href="/list/?33.html" target=_self>喜剧片</a>|
+	<a href="/list/?34.html" target=_self>爱情片</a>|
+	<a href="/list/?35.html" target=_self>科幻片</a>|
+	<a href="/list/?36.html" target=_self>恐怖片</a>|
+	<a href="/list/?37.html" target=_self>剧情片</a>|
+	<a href="/list/?38.html" target=_self>战争片</a>|
+	<a href="/list/?39.html" target=_self>动画片</a>|
+	<a href="/list/?41.html" target=_self>微电影</a>|
+	<a href="/list/?42.html" target=_self>记录片</a>|
+	</div>
+</div>
+</div>
+<!-- 新版导航 2010.9.16 end -->
+<!--顶部截取标签 -->
+<br/>
+<table width="760" border="0" align="center" cellpadding="3" cellspacing="0" style="text-align:left">
+  <tr>
+    <td valign="top">
+	<div class="img" style="width:250px;height:350px;">
+	<img src="http://img.kuyun88.com/pic/uploadimg/2017-12/20157710331141295.jpg" alt="出包王女第二季" width="250" height="350" border="0"/>
+    <input type="hidden" value="<!--影片图片开始代码-->http://img.kuyun88.com/pic/uploadimg/2017-12/20157710331141295.jpg<!--影片图片结束代码-->" /></div></td>
+    <td valign="top" style="width:520px">
+	<table width="100%" border="0" cellpadding="3" cellspacing="1">
+      <tr>
+        <td><strong>影片名称：</strong><font color="#000"><!--影片名称开始代码-->出包王女第二季<!--影片名称结束代码--></font></td>
+        </tr>
+<td><strong>影片备注：</strong><font color="#000"><!--影片备注开始代码-->第12集<!--影片备注结束代码--></font></td>
+        <tr>
+        <td><strong>影片演员：</strong><font color="#000"><!--影片演员开始代码-->丰崎爱生,福圆美里,井口裕香<!--影片演员结束代码--></font></td>
+        </tr>
+		 <tr>
+<td><strong>影片导演：</strong><font color="#000"><!--影片导演开始代码--><a href="/search.asp?searchword=%B4%F3%98%B2%B6%D8%CA%B7">大槻敦史</a>&nbsp;&nbsp;<!--影片导演结束代码--></font></td>	
+        </tr>
+      <tr>
+        <td><strong>影片类型：</strong><font color="#000"><!--影片类型开始代码-->动漫剧场<!--影片类型结束代码--></font></td>
+        </tr>
+      <tr>
+        <td><strong>影片地区：</strong><font color="#000"><!--影片地区开始代码-->日本<!--影片地区结束代码--></font></td>
+        </tr>
+     <tr>
+        <td><strong>更新时间：</strong><font color="#000"><!--影片更新时间开始代码-->2020/3/18 15:32:17<!--影片更新时间结束代码--></font></td>
+        </tr>
+		<tr>
+        <td><strong>影片状态：</strong><font color="#000"><!--影片状态开始代码-->连载第12集<!--影片状态结束代码--></font></td>
+        </tr>
+		<tr>
+        <td><strong>影片语言：</strong><font color="#000"><!--影片语言开始代码-->日语<!--影片语言结束代码--></font></td>
+        </tr>
+		<tr>
+        <td><strong>上映日期：</strong><font color="#000"><!--上映日期开始代码-->2012<!--上映日期结束代码--></font></td>
+        </tr>
+      <tr>
+        <td valign="top"><div class="intro"><font color="#000"><!--影片介绍开始代码-->平凡高中生结城梨斗与统帅银河系的&ldquo;戴比路库&rdquo;族的王女拉拉偶然相遇，由此而卷入各式各样的麻烦中&hellip;&hellip;私下偷偷关心着结城的春菜，被委托抹杀里特而来到地球的金色之暗，超有魅力的女主角等众多角色将悉数登场。宇宙第一的麻烦制造者登场了，她是从天而降的少女，天使的化身or恶魔的使者，谁也不知道&hellip;&hellip;结城梨斗是个普通的纯情高中生，每天都以偷看自己喜欢的春菜来表达自己心中的情感。但是当一个可爱的外星公主因为翘家来找上他后，他的麻烦就一直不断。每天与公主追求者的战斗不断。梨斗的日常生活好像失去了动力的卫星般开始进入了无休止旋转的旋涡中&hellip;&hellip;&nbsp;<!--影片介绍结束代码--></div></td>
+        </tr>
+    </table></td>
+  </tr>
+<!--播放列表开始代码-->
+
+  <tr><td colspan="2" align="left" class="bt">
+
+<h1>来源:kkyun</h1>
+<table width="100%" border="0" cellpadding="0" cellspacing="0"> 
+ <tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/923cac285a4b2e03d3d618857c250eee'  checked/> <a>第01集$http://haitang.kankan-kuyunzy.com/share/923cac285a4b2e03d3d618857c250eee</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/cb1bc074b72dca1191308e9adc6792cd'  checked/> <a>第02集$http://haitang.kankan-kuyunzy.com/share/cb1bc074b72dca1191308e9adc6792cd</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/bd896f3dbc16b0042625fbf0a8ab8b3a'  checked/> <a>第03集$http://haitang.kankan-kuyunzy.com/share/bd896f3dbc16b0042625fbf0a8ab8b3a</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/8b43e1b8dd88fb9f6c99eb66f448a04c'  checked/> <a>第04集$http://haitang.kankan-kuyunzy.com/share/8b43e1b8dd88fb9f6c99eb66f448a04c</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/b338e58b59a9ca0892d2f528f6ae2ae4'  checked/> <a>第05集$http://haitang.kankan-kuyunzy.com/share/b338e58b59a9ca0892d2f528f6ae2ae4</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/cc4e451057c2501f3da5d61279ec4146'  checked/> <a>第06集$http://haitang.kankan-kuyunzy.com/share/cc4e451057c2501f3da5d61279ec4146</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/38ba51573e7ad3ef5a0be37be4260246'  checked/> <a>第07集$http://haitang.kankan-kuyunzy.com/share/38ba51573e7ad3ef5a0be37be4260246</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/7b1223235e9b545dffd56c4cac714b41'  checked/> <a>第08集$http://haitang.kankan-kuyunzy.com/share/7b1223235e9b545dffd56c4cac714b41</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/99e9ed2e0253ae5f4b421592cf6ca2de'  checked/> <a>第09集$http://haitang.kankan-kuyunzy.com/share/99e9ed2e0253ae5f4b421592cf6ca2de</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/3169b89e40818e5575ab0ab87b38d2a5'  checked/> <a>第10集$http://haitang.kankan-kuyunzy.com/share/3169b89e40818e5575ab0ab87b38d2a5</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/30b791a885974b40f58ca90a28ec695d'  checked/> <a>第11集$http://haitang.kankan-kuyunzy.com/share/30b791a885974b40f58ca90a28ec695d</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/share/1ceb3ad80c6675f705c7fef98012e9e1'  checked/> <a>第12集$http://haitang.kankan-kuyunzy.com/share/1ceb3ad80c6675f705c7fef98012e9e1</a><!--分集名开始CD1分集名结束--></td></tr> 
+<tr><td>
+	<input type="checkbox" name="checkbox" value="checkbox" onclick="checkAll('copy_yah',this.checked)" checked />全选
+<input type="button" name="Submit" value="复制选中的集数" onclick="copy('copy_yah')" /></tr></td>
+</table>
+</td></tr>
+
+
+  <tr><td colspan="2" align="left" class="bt">
+
+<h1>来源:kkm3u8</h1>
+<table width="100%" border="0" cellpadding="0" cellspacing="0"> 
+ <tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200317/18496_21042852/index.m3u8'  checked/> <a>第01集$http://haitang.kankan-kuyunzy.com/20200317/18496_21042852/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200305/16650_3ebf2601/index.m3u8'  checked/> <a>第02集$http://haitang.kankan-kuyunzy.com/20200305/16650_3ebf2601/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200305/16649_07e4b111/index.m3u8'  checked/> <a>第03集$http://haitang.kankan-kuyunzy.com/20200305/16649_07e4b111/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200305/16648_3aebeb20/index.m3u8'  checked/> <a>第04集$http://haitang.kankan-kuyunzy.com/20200305/16648_3aebeb20/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200305/16647_e06ac83c/index.m3u8'  checked/> <a>第05集$http://haitang.kankan-kuyunzy.com/20200305/16647_e06ac83c/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200317/18495_9ace6c01/index.m3u8'  checked/> <a>第06集$http://haitang.kankan-kuyunzy.com/20200317/18495_9ace6c01/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200317/18494_d2bbb12d/index.m3u8'  checked/> <a>第07集$http://haitang.kankan-kuyunzy.com/20200317/18494_d2bbb12d/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200317/18493_aa43468e/index.m3u8'  checked/> <a>第08集$http://haitang.kankan-kuyunzy.com/20200317/18493_aa43468e/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200305/16646_282c7341/index.m3u8'  checked/> <a>第09集$http://haitang.kankan-kuyunzy.com/20200305/16646_282c7341/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200305/16645_dba45924/index.m3u8'  checked/> <a>第10集$http://haitang.kankan-kuyunzy.com/20200305/16645_dba45924/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200305/16644_5db2ff06/index.m3u8'  checked/> <a>第11集$http://haitang.kankan-kuyunzy.com/20200305/16644_5db2ff06/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr><tr><td><input type='checkbox' name='copy_yah' id='copy_yah' value='http://haitang.kankan-kuyunzy.com/20200305/16643_f32d2225/index.m3u8'  checked/> <a>第12集$http://haitang.kankan-kuyunzy.com/20200305/16643_f32d2225/index.m3u8</a><!--分集名开始CD1分集名结束--></td></tr> 
+<tr><td>
+	<input type="checkbox" name="checkbox" value="checkbox" onclick="checkAll('copy_yah',this.checked)" checked />全选
+<input type="button" name="Submit" value="复制选中的集数" onclick="copy('copy_yah')" /></tr></td>
+</table>
+</td></tr>
+
+
+<!--播放列表结束代码-->
+<!--下载列表开始代码-->
+
+<!--下载列表结束代码-->
+</table>
+<br/>
+<br/>
+<!-- 底部截取标签-->
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+  <td height="20" align="center" style="line-height:21px;"><a href="#">关于我们</a>|<a>wangzherongyao118@gmail.com</a>|<a>友情连接</a>|<a href="#">招贤纳士</a><br><span style="font-size:12px;"><font color=red>注:1、</font><font color=#3366ff>本站资源介绍均由机器人自动采集提供，所有资源的实际视频文件都只保存在网友自己的计算机上。本站不会保存、复制或传播任何视频文件，也不对本站上的任何内容负法律责任。
+</b><br>
+<font color=red>注:2、</font>本站重视知识产权保护，并制定了旨在保护权利人的合法权益的措施和步骤，当权利人发现在本站的内容侵犯其著作权时，请权利人向本站发出书面“权利通知”，本站将依法采取措施移除相关内容或断开相关链接。</font></span></td>
+<div style="display:none">
+<script type="text/javascript" src="https://js.users.51.la/19534235.js"></script>
+</div>
+  </tr>
+  </table>
+</body>
+</html>
+
+
+
+

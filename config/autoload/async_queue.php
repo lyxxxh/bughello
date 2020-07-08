@@ -8,7 +8,7 @@ return [
         ],
         'channel' => 'bughello',
         'timeout' => 600,
-        'retry_seconds' => [5, 30, 100, 200],
+        'retry_seconds' => [5, 20, 30, 40, 60],
         'handle_timeout' => 600,
         'processes' => 1,
         'concurrent' => [

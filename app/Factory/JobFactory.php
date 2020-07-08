@@ -31,6 +31,15 @@ class JobFactory
     }
 
 
+    /**
+     * 生产消息.
+     * @param $source_url 从哪里采集的
+     */
+    public function pushKunYunCollection($source_url): bool
+    {
+        return $this->driver->push(new \App\Jobs\KunYunCollectionJob($source_url),0);
+    }
+
 
 
 

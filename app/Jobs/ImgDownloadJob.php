@@ -17,8 +17,6 @@ use Xxh\FileStore\Service\FileStoreAbstract;
 class ImgDownloadJob extends Job
 {
 
-
-//    public $filesystem;
     public $filestore;
     public $imgs_url;
     public $source_url;
