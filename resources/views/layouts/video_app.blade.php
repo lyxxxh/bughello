@@ -36,3 +36,4 @@
 </div>
 @include('video_particles.foot')
 </body>
+
