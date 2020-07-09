@@ -13,8 +13,6 @@
     <meta name="description" content="二次元资源 多种你想要的资源 动漫涩应有尽有">
 
 
-
-
     <!-- Core JavaScript Files -->
     <!--
     <script src="http://cdn.lblog.club/cdn/bughello/js/bootstrap.min.js"></script>
