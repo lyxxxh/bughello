@@ -10,7 +10,7 @@
                     <div id="player-left" class="stui-player__video embed-responsive embed-responsive-16by9 clearfix">
                         <div class="myui-player__box player-fixed">
                             <a class="player-fixed-off" href="javascript:;" style="display: none;"><i class="icon iconfont icon-close"></i></a>
-                            <iframe src="" id="video"></iframe>
+                            <iframe src="" id="video" allowfullscreen="true"></iframe>
                         </div></div>
                     <div class="stui-player__detail detail" id="dianshijuid">
                         <ul class="more-btn">
