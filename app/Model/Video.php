@@ -26,4 +26,9 @@ class Video extends Model
      * @var array
      */
     protected $casts = [];
+
+    public function pages()
+    {
+        return $this->hasMany(VideoPage::class);
+    }
 }

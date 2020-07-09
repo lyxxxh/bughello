@@ -11,13 +11,12 @@ function sub3(){
 }
 function submit(){
 	var str = document.getElementById('wd').value;
-		if (str==""||str==null){
-			alert("请输入影片关键词")
+		if (str=="" || str==null){
+			alert("请输入关键词")
 		}else{
 			var s=$('#wd').val();
             s=s.replace(/\s/g,"");
-			window.location.href="/seacher-"+s+".html";
-
+			window.location.href="/video/search?keyworlds=" + s;
 		}
 }
 function submv(){

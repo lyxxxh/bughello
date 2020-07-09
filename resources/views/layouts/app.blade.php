@@ -11,7 +11,4 @@
 {{-- @include('particles.footer') --}}
 @include('particles.js')
 
-
-
-
 </html>

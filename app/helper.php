@@ -88,3 +88,12 @@ if (!function_exists('response')) {
         );
     }
 }
+
+
+if (! function_exists('url')) {
+
+    function url($path = null, $parameter)
+    {
+        return $path . '/' .$parameter;
+    }
+}

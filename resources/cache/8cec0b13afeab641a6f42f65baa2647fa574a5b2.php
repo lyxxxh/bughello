@@ -22,8 +22,10 @@
             </li>
             <li><a href="/about"><i class="fa fa-envelope"></i> 关于 </a></li>
             <li><a href="https://www.donmandaohang.com"><i class="fa fa-space-shuttle"></i> 二次元导航 </a></li>
+            <li><a href="/video"><i class="fa fa-space-shuttle"></i> 看动漫 </a></li>
         </ul>
-        <form class="navbar-form navbar-left" role="search">
+
+        <form class="navbar-form navbar-left" role="search" action="">
             <div class="form-group">
                 <input type="text" class="form-control"  name="title" placeholder="搜索" >
             </div>

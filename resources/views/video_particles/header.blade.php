@@ -5,15 +5,17 @@
             <div class="container">
                 <div class="row">
                     <div class="stui-header_bd clearfix">
+
+
                         <div class="stui-header__logo">
-                            <a class="logo" href="/index.html"></a>
+                            <a class="logo" href="/video"></a>
                         </div>
                         <ul class="stui-header__menu">
-                            <li class=""><a href="/index.html">首页</a></li>
-                            <li class=" hidden-xs"><a href="/movie.html">电影</a></li>
-                            <li class="hidden-xs"><a href="/tv.html">剧集</a></li>
-                            <li class="hidden-xs"><a href="/dongman.html">动漫</a></li>
-                            <li class="hidden-xs"><a href="/zongyi.html">综艺</a></li>
+
+                            <li class=""><a href="/video">首页</a></li>
+                            <li class=" hidden-xs"><a href="/">美图</a></li>
+
+                            <!--
                             <li><a href="javascript:;">更多 <i class="icon iconfont icon-moreunfold"></i></a>
                                 <ul class="dropdown">
                                     <li class=""><a href="/movie.html">电影</a></li>
@@ -24,13 +26,16 @@
 
                                 </ul>
                             </li>
+                            -->
                         </ul>
-                        <script type="text/javascript" src="/video/js/jquery.autocomplete.js"></script>
                         <div class="stui-header__search">
-                            <input type="text" id="wd" name="wd" class="mac_wd form-control" value="search" placeholder="输入明星、影片关键词" onkeydown='if(event.keyCode==13){submi.click()}'/>
+                            <input type="text" id="wd" name="wd" class="mac_wd form-control" value="" placeholder="输入关键词" />
                             <button class="submit" id="submi" type="submit" onclick="submit()"><i class="icon iconfont icon-search"></i></button>
                             <a class="search-close visible-xs" href="javascript:;"><i class="icon iconfont icon-close"></i></a>
                         </div>
+                        <script type="text/javascript" src="/video/js/jquery.autocomplete.js"></script>
+
+                        <!--
                         <ul class="stui-header__user">
                             <li>
 
@@ -60,13 +65,12 @@
                             <li class="hidden-xs">
                                 <a href="/book.html" title="留言板"><i class="icon iconfont icon-comments"></i></a>
                             </li>
-                            <li class="hidden-xs">
-                                <a href="/app.html" title="APP下载"><i class="icon iconfont icon-icondownload"></i></a>
-                            </li>
+
                             <li class="visible-xs">
                                 <a class="open-search" href="javascript:;"><i class="icon iconfont icon-search"></i></a>
                             </li>
                         </ul>
+                        -->
                     </div>
                 </div>
             </div>

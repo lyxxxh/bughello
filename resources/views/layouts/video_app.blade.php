@@ -1,9 +1,9 @@
 @include('video_particles.head')
 
 
-<title>追动漫<?php echo $yea3.$are3.$type3;?>-最新最好看的动漫-<?php echo $mkcms_seoname;?></title>
-<meta name="keywords" content="动漫排行,日本动漫,新番动漫,国产动漫,<?php echo $mkcms_keywords;?>">
-<meta name="description" content="<?php echo $mkcms_description;?>">
+<title>sizhaidonman</title>
+<meta name="keywords" content="动漫排行,日本动漫,新番动漫,国产动漫">
+<meta name="description" content="keyworld">
 </head>
 <body style="padding: 0;">
 <style type="text/css">
@@ -25,9 +25,14 @@
         color: #fff;
         text-align: center;
     }
+   .content-container{
+       margin-top: 4%;
+   }
 </style>
 
 @include('video_particles.header')
+<div class="content-container">
 @yield('content')
-
+</div>
+@include('video_particles.foot')
 </body>
