@@ -11,6 +11,7 @@
                     <li style="float: right"><a href="#"><i class="fa fa-calendar"></i> <?php echo e($post->created_at); ?></a></li>
                 </ul>
 
+
                 <?php if( $post->type == \App\Model\Post::TYPE_IMG): ?>
                     <?php $__currentLoopData = json_decode($post->content); $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $img): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
                 <p class="info">
@@ -21,6 +22,23 @@
                     <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
                 <?php endif; ?>
             </div>
+
+
+
+
+            <div class="bottom-item">
+              <?php if( $post->previou): ?>
+              <a href="/post/<?php echo e($post->previou->id); ?>" class="btn btn-share share" title="<?php echo e($post->previou->title); ?>" style="border-right: 0">
+                  <i class="fa fa-angle-left"></i> 上一篇: <?php echo e($post->previou->title); ?> </a>
+              <?php endif; ?>
+                 <?php if( $post->next): ?>
+                    <span class="user f-right">下一篇: <a href="/post/<?php echo e($post->next->id); ?>" title="<?php echo e($post->next->title); ?>"><?php echo e($post->next->title); ?>
+
+                        <i class="fa fa-angle-right"></i>
+                        </a></span>
+                <?php endif; ?>
+            </div>
+
             <div class="bottom-item">
 <!--
                 <a href="#" class="btn btn-share share"><i class="fa fa-share-alt"></i> Share</a>
