@@ -28,6 +28,7 @@
     }
    .content-container{
        margin-top: 4%;
+       min-height: 600px;
    }
 </style>
 
@@ -36,5 +37,6 @@
 @yield('content')
 </div>
 @include('video_particles.foot')
+@include('video.show.js')
 </body>
 

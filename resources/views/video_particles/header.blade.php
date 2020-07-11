@@ -29,13 +29,12 @@
                             -->
                         </ul>
                         <div class="stui-header__search">
-                            <input type="text" id="wd" name="wd" class="mac_wd form-control" value="" placeholder="输入关键词" />
+                            <input type="search" id="wd" name="wd" class="mac_wd form-control" value="" placeholder="输入关键词" />
                             <button class="submit" id="submi" type="submit" onclick="submit()"><i class="icon iconfont icon-search"></i></button>
                             <a class="search-close visible-xs" href="javascript:;"><i class="icon iconfont icon-close"></i></a>
                         </div>
-                        <script type="text/javascript" src="/video/js/jquery.autocomplete.js"></script>
 
-                        <!--
+
                         <ul class="stui-header__user">
                             <li>
 
@@ -49,10 +48,15 @@
                                     </ul>
                                 </div>
                             @else
+                                <!--
                                 <a href="/ucenter/login.php" title="账户"><i class="icon iconfont icon-account"></i></a>
+
+                                -->
                             @endif
 
+
                             </li>
+
                             <li>
                                 <a href="javascript:;"><i class="icon iconfont icon-clock"></i></a>
                                 <div class="dropdown">
@@ -62,15 +66,17 @@
                                     <ul class="history clearfix" id="stui_history"></ul>
                                 </div>
                             </li>
+                            <!--
                             <li class="hidden-xs">
                                 <a href="/book.html" title="留言板"><i class="icon iconfont icon-comments"></i></a>
                             </li>
-
+-->
                             <li class="visible-xs">
                                 <a class="open-search" href="javascript:;"><i class="icon iconfont icon-search"></i></a>
                             </li>
+
                         </ul>
-                        -->
+
                     </div>
                 </div>
             </div>
@@ -87,6 +93,12 @@
                     Seacrh.removeClass("active").siblings().show();
                 });
             });
+            $(document).keyup(function(event){
+                if(event.keyCode ==13){
+                    $("#submi").trigger("click");
+                }
+            });
+
         </script>
         <!--head-->
     </div>

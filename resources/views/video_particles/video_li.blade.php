@@ -7,7 +7,7 @@
         </a>
         <div class='stui-vodlist__detail'>
             <h4 class='title text-overflow'>
-                <a href='{{ url('/video',$video->id) }}' title='f'>{{ $video->title }}wfe</a>
+                <a href='{{ url('/video',$video->id) }}' title='f'>{{ $video->title }}</a>
             </h4>
             <p class='text text-overflow text-muted hidden-xs'>
                 {{ $video->description }}

@@ -25,7 +25,7 @@
     <style type="text/css">
         body{
             background-repeat:repeat;background-size:inherit;background-attachment:fixed;background-position:center center;
-            background: url('bg');
+            background: whitesmoke;
         }
         .stui-header__logo .logo {
             display: block;
@@ -44,7 +44,7 @@
             .stui-header__logo .logo {
                 width: 90px;
                 height: 30px;
-                background: url('https://cdn.lblog.club/cdn/files/logo.png') no-repeat;
+                background: url('http://cdn.lblog.club/cdn/files/logo.png') no-repeat;
                 background-position: 50% 50%;
                 background-size: cover;
             }}

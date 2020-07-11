@@ -457,7 +457,7 @@ body {
     }
     .stui-header__search {
         position:absolute;
-        top:0%;
+        top:-100%;
         left:10px;
         right:10px;
         width:auto;

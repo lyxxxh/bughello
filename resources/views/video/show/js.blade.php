@@ -61,13 +61,19 @@
 function play(obj) {
     let href = $(obj).attr('data-href');
     let text = $(obj).text();
+    addHistory(
+        $('#video-title').text(),
+        window.location.href,
+        text
+    );
+
     $('.js').text('-' + text + '');
     $.each($('.lipbtn'), function () {
         $(this).attr('id', '');
     });
     $(obj).attr('id', 'ys');
     if (href)
-        playUrl(href)
+    playUrl(href)
 }
 
 function playUrl(url) {

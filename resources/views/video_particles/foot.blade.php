@@ -12,6 +12,7 @@
 
 <ul class="stui-extra clearfix">
     <li class="hidden-xs"><a class="backtop" href="javascript:scroll(0,0)" style="display: block;"><i class="icon iconfont icon-less"></i></a></li>
+
     <!--
     <li class="visible-xs"><a class="open-share" href="javascript:;"><i class="icon iconfont icon-share"></i></a></li>
     <li class="hidden-xs"><span><i class="icon iconfont icon-qrcode"></i></span>
