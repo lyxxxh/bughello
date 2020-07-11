@@ -188,3 +188,8 @@ $(document).ready(function() {
     stui.common.collapse();
     stui.common.scrolltop()
 });
+
+function toUrl(url)
+{
+    window.location.href = url;
+}
