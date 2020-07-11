@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<meta name="baidu-site-verification" content="kZV8aSyr1R" />
 @include('particles.heade')
 @include('particles.css')
 @include('particles.nav')

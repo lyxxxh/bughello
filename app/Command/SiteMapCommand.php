@@ -39,8 +39,8 @@ class SiteMapCommand extends HyperfCommand
     {
         file_put_contents(BASE_PATH.'/public/site_map/video_page.txt',$this->videoPages());
         file_put_contents(BASE_PATH.'/public/site_map/video_show.txt',$this->videoShow());
-        file_put_contents(BASE_PATH.'/public/site_map/post_page.txt',$this->videoShow());
-        file_put_contents(BASE_PATH.'/public/site_map/post_show.txt',$this->videoShow());
+        file_put_contents(BASE_PATH.'/public/site_map/post_page.txt',$this->postPages());
+        file_put_contents(BASE_PATH.'/public/site_map/post_show.txt',$this->postShow());
         $this->line('Hello Hyperf!', 'info');
     }
 

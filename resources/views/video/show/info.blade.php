@@ -17,7 +17,7 @@
             </a>
         </div>
         <div class="stui-content__detail">
-            <h1 class="title" ><a href="" title="{{ $video->title }}"  id="video-title">{{ $video->title }}</a></h1>
+            <h1 class="title" ><a href="{{ url('/video',$video->id) }}" title="{{ $video->title }}"  id="video-title">{{ $video->title }}</a></h1>
             <p class="data">地区 ：{{ $video->area }}</p>
             <p class="data">年代 ：{{ $video->release_date }}</p>
             <p class="data">状态 ：{{ $video->status }}</p>

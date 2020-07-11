@@ -1,6 +1,7 @@
 @extends('layouts.video_app')
 @section('content')
 
+    @section('title',$video->title)
     <div class="container">
         <div class="row">
 
@@ -18,7 +19,7 @@
                         <li><a href="javascript:scroll(0,0)" class="btn btn-default" id="btn-prev" title="上一集"><i class="icon iconfont icon-back hidden-xs"></i> 上一集</a></li>
                         <li><a href="javascript:scroll(0,0)" class="btn btn-default" id="btn-next" title="下一集">下一集 <i class="icon iconfont icon-more hidden-xs"></i></a></li>
                         </ul>
-                        <h1 class="title"><a href="" title="{{ $video->title }}">{{ $video->title }}</a><span class="js"></span></h1>
+                        <h1 class="title"><a href="{{ url('/video',$video->id) }}" title="{{ $video->title }}">{{ $video->title }}</a><span class="js"></span></h1>
                         <span class="text-muted">地区：</span>{{ $video->area }}<span class="split-line"></span>
                         <span class="text-muted">年份：</span>{{ $video->release_date }}
                         <span class="split-line"></span><span class="text-muted">状态：{{ $video->status }}</div>
