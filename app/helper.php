@@ -43,7 +43,7 @@ if(! function_exists('url_to_filename')){
 
 //习惯lar了
 if(! function_exists('public_upload_url')){
-    function public_upload_url($url)
+    function public_upload_url($url  = '')
     {
     return 'http://bughello.lblog.club/collection/'.$url;  
     return 'https://bughello-1256267952.cos.ap-chengdu.myqcloud.com/collection/'.$url;

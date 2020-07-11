@@ -12,7 +12,9 @@ declare(strict_types=1);
 
 namespace HyperfTest\Cases;
 
+use App\Jobs\ImgDownloadJob;
 use App\Jobs\KunYunCollectionJob;
+use App\Jobs\VideoPicDownloadJob;
 use HyperfTest\HttpTestCase;
 
 
@@ -23,6 +25,12 @@ class KunYunTest extends HttpTestCase
 
         $url = 'http://www.kuyunzy1.com/detail/?42892.html';
         $j = new KunYunCollectionJob($url);
+ //       $j->handle();
+    }
+
+    public function testDownImg()
+    {
+        $j = new VideoPicDownloadJob(1);
         $j->handle();
     }
 }

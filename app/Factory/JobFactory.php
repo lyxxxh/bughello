@@ -3,6 +3,7 @@
 namespace App\Factory;
 
 use App\Job\ImgDownloadJob;
+use App\Jobs\VideoPicDownloadJob;
 use Hyperf\AsyncQueue\Driver\DriverFactory;
 use Hyperf\AsyncQueue\Driver\DriverInterface;
 use Hyperf\Di\Annotation\Inject;
@@ -40,6 +41,16 @@ class JobFactory
         return $this->driver->push(new \App\Jobs\KunYunCollectionJob($source_url),0);
     }
 
+
+
+    /**
+     * .
+     * @param $video_id video_id
+     */
+    public function pushVideoPic( $video_id): bool
+    {
+        return $this->driver->push(new VideoPicDownloadJob($video_id),0);
+    }
 
 
 
