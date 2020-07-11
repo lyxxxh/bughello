@@ -35,7 +35,8 @@
         "hyperf/paginator": "^1.1",
         "tencentcloud/tencentcloud-sdk-php": "3.0.*",
         "symfony/event-dispatcher": "^4.3",
-        "lyxxxh/filestore": "^1.2"
+        "lyxxxh/filestore": "^1.2",
+        "hyperf/crontab": "^2.0"
     },
     "require-dev": {
         "swoft/swoole-ide-helper": "^4.2",

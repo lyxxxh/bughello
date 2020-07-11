@@ -66,8 +66,6 @@ class CollectionBiliImgCommand extends HyperfCommand
         if( $content->code != 0)
         throw new RuntimeException('获取失败 状态为0');
 
-
-
         foreach ($content->data->items as $data)
         {
 
